@@ -1,6 +1,6 @@
 {
   "name": "metrics",
-  "version": "3.27.0",
+  "version": "3.28.0",
   "description": "An infographics generator with 40+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
   "main": "index.mjs",
   "scripts": {
@@ -58,12 +58,12 @@
     "open-graph-scraper": "^4.11.1",
     "png-js": "^1.0.0",
     "prismjs": "^1.28.0",
-    "puppeteer": "^16.1.0",
+    "puppeteer": "^16.2.0",
     "purgecss": "^4.1.3",
     "rss-parser": "^3.12.0",
     "sanitize-html": "^2.7.1",
     "sharp": "^0.30.7",
-    "simple-git": "^3.12.0",
+    "simple-git": "^3.13.0",
     "svgo": "^2.8.0",
     "twemoji-parser": "^14.0.0",
     "vue": "^2.7.1",
